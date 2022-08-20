@@ -8,7 +8,7 @@
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="300" width="400" src="https://i.pinimg.com/564x/4e/7e/6b/4e7e6bdabc7bf820becde2c2e4c06188.jpg">
+  <img align="center" alt="CSS" height="30" width="40" src="https://i.pinimg.com/564x/4e/7e/6b/4e7e6bdabc7bf820becde2c2e4c06188.jpg">
 
 </div>
   
