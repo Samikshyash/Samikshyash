@@ -3,21 +3,11 @@ Software engineering student passionate about building, learning, and growing th
 
 ---
 
-<div align="center">
-  <a href="https://github.com/samikshyash">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=samikshyash&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=samikshyash&layout=compact&langs_count=7&theme=dracula"/>
-  </a>
-</div>
-
----
-
 ## Skills
 
 <div align="center">
 
   <!-- Languages -->
-  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -34,9 +24,8 @@ Software engineering student passionate about building, learning, and growing th
 
 ## What I'm Learning
 - React fundamentals  
-- Java OOP and data structures  
-- Clean code and version control  
 - Web development best practices  
+- Clean code and version control  
 
 ---
 
@@ -47,5 +36,3 @@ Software engineering student passionate about building, learning, and growing th
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </div>
-
----
